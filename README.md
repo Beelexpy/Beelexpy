@@ -12,9 +12,5 @@
 
 
 
-<br>
 
-- Self-taught Front-end Dev
-- I enjoy playing any game at my spare time
-- Currently learning Web Development by Self
 
